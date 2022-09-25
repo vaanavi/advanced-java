@@ -1,4 +1,4 @@
 # advanced-java
-This is for Advance  Java programming courseD
+This is for Advance Java programming course
 
-this is an extra line.
+this is an extra line...
